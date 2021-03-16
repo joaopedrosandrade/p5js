@@ -16,7 +16,7 @@ p5.js é uma biblioteca JavaScript para codificação criativa, com foco em torn
 
 #### Instalação desse projeto
 
-`git clone https://github.com/joaopedrosandrade/p5js`
+`git c# ne https://github.com/joaopedrosandrade/p5js`
 
 #### Veja online
 
@@ -25,6 +25,8 @@ p5.js é uma biblioteca JavaScript para codificação criativa, com foco em torn
 #### Edite o projeto em tempo real
 
 `https://editor.p5js.org/joaopedrosandrade/sketches/kGk0kvLhz`
+
+> Imagem antes da modificação: 195kb / Após a modificação: 104kb
 
 > Algoritmo implementado especialmente para a matéria de Sistemas Multimídia da Universidade Federal do Espírito Santo - Campus São Mateus
 
